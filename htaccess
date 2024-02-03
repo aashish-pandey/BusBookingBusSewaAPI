@@ -1,0 +1,10 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home4/merobusx/backend-bussewa-fetch.merobus.xyz"
+PassengerBaseURI "/"
+PassengerNodejs "/home4/merobusx/nodevenv/backend-bussewa-fetch.merobus.xyz/18/bin/node"
+PassengerAppType node
+PassengerStartupFile app.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
+# php -- BEGIN cPanel-generated handler, do not edit
+# This domain inherits the “PHP” package.
+# php -- END cPanel-generated handler, do not edit
